@@ -1,0 +1,3 @@
+EXEC sp_databases;
+
+SELECT DATABASE_NAME FROM sp_databases;
